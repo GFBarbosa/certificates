@@ -7,14 +7,6 @@ In this repository I will share some of my certificates that I have got from cou
 
 This course assumes you're an experienced site builder with Drupal 8. You know how to configure a Drupal site, but you've found limitations with what you can do with core and contributed modules. You do have experience with programming. While you don't need to be an expert in PHP, you understand the basic constructs of programming enough to work with a new language.
 
-![](Courses/Acquia/Drupal8/certification-Drupal-8-Module-Development-guilherme.barbosa.pdf)
-
-Course URL: https://www.lynda.com/AngularJS-tutorials/Building-Mobile-App-AngularJS-1-Ionic/368920-2.html
-
-Language: EN-US
-
-Applier: [Lynda](https://www.lynda.com)
-
 #### - Acquia Academy, Drupal 8 Layout and Theming (E-D8202)
 
 This course provides a variety of approaches for making dynamic layouts in Drupal, and helps users to choose the right approach for their site.
