@@ -63,6 +63,8 @@ Language: EN-US
 
 Applier: [Acquia](https://customers.acquiacademy.com)
 
+###  **May 2018**
+
 #### - Docker: Ferramenta essencial para Desenvolvedores (UC-6UEO7JEF)
 
 Learn to create professional environments with Docker, the leading container technology on the market!
